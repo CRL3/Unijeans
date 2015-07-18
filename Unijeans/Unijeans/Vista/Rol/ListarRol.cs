@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Unijeans
+namespace Unijeans.Vista.Rol
 {
-    public partial class Form1 : Form
+    public partial class ListarRol : Form
     {
-        public Form1()
+        public ListarRol()
         {
             InitializeComponent();
         }
